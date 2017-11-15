@@ -1,0 +1,16 @@
+{
+    "name": "Adafruit_CharacterOLED",
+    "version": "1.0.0",
+    "keywords": "OLED,WS0010",
+    "description": "华凌光电16*2 OLED屏（WS0010控制芯片）驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_CharacterOLED.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
